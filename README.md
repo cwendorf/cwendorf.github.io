@@ -10,7 +10,7 @@ I am a Professor of Psychology at the University of Wisconsin - Stevens Point (U
 
 ### This Website
 
-Please visit the compelte HTML version of this website:  
+Please visit the complete HTML version of this website:  
 [https://cwendorf.github.io/](https://cwendorf.github.io/)
 
 ### Contact Me
