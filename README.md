@@ -15,4 +15,4 @@ Please visit the complete HTML version of this website:
 
 ### Contact Me
 
-If you have any questions, contact me at [cwendorf@uwsp.edu](mailto:cwendorf@uwsp.edu).
+For general correspondennce, contact me at [cwendorf@uwsp.edu](mailto:cwendorf@uwsp.edu).
