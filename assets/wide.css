@@ -7,45 +7,25 @@
 
 .Content {max-width: 1150px;}
 
-/* Header Section Changes */
-
-.logo {width: 250px; padding: 2px 4px;}
-
-#HeaderContainer {height: 70px;}
-
-#BriefMenu {display: block; margin-top: -51px;}
-#BriefMenu A {color: #ffcc00; font-size: 20px; padding: 21px 10px; font-weight: bold; text-transform: uppercase;}
-#BriefMenu A:hover {background: #714eb1;}
-#BriefMenu UL {margin: 0px;}
-#BriefMenu LI {list-style: none; float: right;}
-#BriefMenu IMG {vertical-align: middle; width: 36px; height: 36px; padding: 0px 8px 0px 0px; margin: 0px; }
-
-#FindContainer, #UnivContainer, #ToolContainer  {display: none; position: absolute; top: 70px; background: none; z-index: 99;}
-#FindContent UL, #UnivContent UL, #ToolContent UL {float: right; width: 365px; margin: 0px;}
-#FindContent LI, #UnivContent LI, #ToolContent LI {width: 100%; border-top: 1px solid #888; text-align: center;}
-#FindContent A, #UnivContent A, #ToolContent A {padding: 5px 8px; font-size: 20px;}
-
 /* Title Section Changes */
 
-#TitleContent {padding: 10px 10px; }
-#Person {font-size: 32px; padding: 0px 10px; }
-#Title {font-size: 22px; padding: 0px 10px;}
-#MenuButton {display: none;}
+#TitleContainer {height: 66px;}
+#Person {font-size: 32px; padding: 10px 10px; }
+#Title {display: none;}
 
+#MenuButton {vertical-align: middle; display: block; float: right; height: 28px; width: 30px; padding: 15px 7px; margin: 0px 0px 0px 10px;}
+#MenuButton:hover {background: rgba(160,160,230,.2);}
+#MenuButton {display: none;}
 
 /* Nav Section Changes */
 
-#AreaContainer {display: none;}
+#AreaContainer {border-bottom: 1px solid #ccc;}
 #AreaContent LI {float: left; padding: 0px 10px; }
 #AreaContent A {width: 100%; display: block; font-size: 20px; padding: 6px 10px;}
 
 /* Main Section Changes */
 
-#MainContent {margin-left: 290px;}
-#SidebarContainer {width: 260px; float: left; margin: 0px 10px 20px 10px;}
-#SidebarContent {padding: 20px 0px;}
-
-#MainContent .post:before {content: ''; float: right; display: block; width: 250px; height: 175px; margin: 0px 15px 25px 25px;}
+#MainContent .post:before {content: ''; float: right; display: block; width: 250px; height: 175px; margin: 0px 15px 45px 45px;}
 #MainContent .post {position: relative;}
 
 #MainContent .icon {position: absolute; top: 0; right: 0;  }
@@ -56,15 +36,9 @@
 
 /* Footer Section Changes */
 
-#CrumbsContent a {font-size: 20px; line-height: 32px; padding: 0px 10px 0px 30px;}
-#CrumbsContent a:first-child {padding-left: 24px;}
-#CrumbsContent a:after {top: 0; right: -16px; width: 32px; height: 32px;}
-
-#DirectoryContent .row {padding: 0px 15px;}
-
 #FooterContent #logo {float: left;}
 #FooterContent IMG#seal {display: none;}
 #FooterContent IMG#map {margin: 0px 10px;}
 #FooterContent UL#address {float: left; margin: 0px; padding: 0px;}
-#FooterContent UL#info {clear: right; float: right; margin: 5px 0px;}
-#FooterContent UL#social {clear: right; float: right; margin: 5px 0px;}
+#FooterContent UL#info {clear: right; float: right; margin: 5px 0px; margin: 5px 15px 5px 25px;}
+#FooterContent UL#social {clear: right; float: right; margin: 5px 0px; margin: 5px 15px 5px 25px;}

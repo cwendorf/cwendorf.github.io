@@ -11,24 +11,6 @@
 .Container {min-width: 320px;}
 .Content {min-width: 320px;}
 
-/* Header Section Changes */
-
-.logo {width: 185px; padding: 4px 8px;}
-
-#HeaderContainer {height: 60px;}
-
-#BriefMenu {display: block; position: absolute; top: 0px; right: 0px;}
-#BriefMenu SPAN {display: none;}
-#BriefMenu UL {margin: 0px;}
-#BriefMenu LI {list-style: none; float: right; margin-left: 1px;}
-#BriefMenu IMG {vertical-align: middle; width: 36px; height: 36px; padding: 12px 4px; margin: 0px; }
-#BriefMenu IMG:hover {background: #714eb1;}
-
-#ToolContainer, #UnivContainer, #FindContainer {margin: 0px; display: none;}
-#ToolContent UL, #UnivContent UL, #FindContent UL {float: right; width: 100%;}
-#ToolContent LI, #UnivContent LI, #FindContent LI {width: 100%; border-top: 1px solid #888; text-align: center;}
-#ToolContent A, #UnivContent A, #FindContent A {padding: 6px 0px; font-size: 18px;}
-
 /* Title Section Changes */
 
 #TitleContainer {height: 60px;}
@@ -46,28 +28,15 @@
 /* Main Section Changes */
 
 #MainContent {margin-left: 0px; margin-top: 0px;}
-#MainContent .icon IMG {clear: both; width: 100%; max-width: calc(100% - 25px); margin: 10px 0px 10px 10px;}
+#MainContent .icon IMG {clear: both; display: block; width: 100%; min-width: 360px; max-width: calc(80% - 25px); margin: 15px auto 20px auto;}
 
 UL.references LI {margin-left: 30px;}
 
-/* Sidebar Section Changes */
-
-#SidebarContainer {width: 100%; clear: both; margin: 0px 0px 20px 0px; }
-#SidebarContent {padding: 0px 8px;}
-.Media {margin: 0px 5px; }
-.navigate {float: right;}
-
 /* Footer Section Changes */
-
-#CrumbsContent a {font-size: 18px; line-height: 32px; padding: 0px 3px 0px 26px;}
-#CrumbsContent a:first-child {padding-left: 10px;}
-#CrumbsContent a:after {top: 0; right: -18px; width: 32px; height: 32px;}
-
-#DirectoryContent .col-4 {text-align: center;}
 
 #FooterContent #logo {margin: 0px auto;}
 #FooterContent IMG#seal {display: block; margin: 0px auto 10px auto;}
 #FooterContent IMG#map {display: none;}
 #FooterContent UL#address {clear: both; margin: 0px auto; padding: 0px; text-align: center;}
-#FooterContent UL#info {clear: both; margin: 5px auto; padding: 10px 0px 10px 0px;}
+#FooterContent UL#info {display: none;}
 #FooterContent UL#social {clear: both; margin: 5px auto; padding: 10px 0px 30px 0px;}

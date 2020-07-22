@@ -62,32 +62,6 @@ UL {
 }
 
 
-/* Header Section Styles */
-
-#HeaderContainer {
-    color: #441a77;
-    box-shadow: inset 0 0 0 1000px #63449b;
-}
-
-#HeaderContainer IMG {
-    z-index: 99;
-    position: relative;
-}
-
-#ToolContent UL, #UnivContent UL, #FindContent UL {
-    background: #441a77;
-}
-
-#ToolContent A, #UnivContent A, #FindContent A {
-    display: block;
-    color: #ffcc00;
-    text-transform: uppercase;
-}
-#ToolContent A:hover, #UnivContent A:hover, #FindContent A:hover {
-    background: #714eb1;
-}
-
-
 /* Title Section Styles */
 
 #TitleContainer {
@@ -127,19 +101,10 @@ UL {
 }
 
 
-/* Column Section Styles */
-
-#ColumnContainer {
-}
-#ColumnContent {
-}
-
-
 /* Main Section Styles */
 
 #MainContainer {
     width: 100%;
-    margin-right: -100%;
     float: left;
 }
 
@@ -156,8 +121,9 @@ UL {
     font-weight: bold;
     text-transform: uppercase;
     color: #441a77;
-    padding: 0px 10px;
+    padding: 10px 10px;
     margin: 0px 0px 10px 0px;
+    border-bottom: 1px dashed silver;
 }
 #MainContent H2 {
     font-size: 20px; 
@@ -211,127 +177,11 @@ UL.references A:hover.download {
     border-bottom: 1px #63449b solid;
 }
 
-
-/* Sidebar Section Styles */
-
-#SidebarContent H1 {
-    font-size: 22px;
-    font-weight: bold;
-    text-transform: uppercase;
-    color: #441a77;
-    padding: 4px 10px;
-    background: #cecee1;
-    margin: 0px 0px 0px 0px; 
-    box-shadow: inset 4px 0px 0px 0px #63449b;
-}
-
-UL.Menu {
-    list-style: none;
-    padding: 0px;
-    margin: 0px 0px 20px 0px;
-    background: #f6f6f6;
-}
-UL.Menu LI {
-}
-
-UL.Menu LI A {
-    display: block;
-    color: #441a77;
-    text-decoration: none;
-    font-size: 18px;
-    text-transform: uppercase;
-    padding: 6px 10px;
-    border-bottom: 1px solid #ccc;
-}
-UL.Menu LI A:hover {
-    background: rgba(160,160,230,.1);
-    color: #63449b;
-}
-UL.Menu LI A.chosen {
-    font-weight: bold;
-    background: rgba(160,160,230,.1);
-    color: #441a77;
-}
-
-.Media {
-    float: left; 
-    border: 1px solid white;
-    height: 42px;
-    width: 42px;
-    border-radius: 3px;
-}
-.Media:hover {
-    border: 1px solid #63449b;
-}
-
-
 /* Footer Section Styles */
 
-#CrumbsContainer {
-    background: #2a1f2f;
-}
-#CrumbsContent {
-    overflow:hidden;
-}
-#CrumbsContent a {
-    text-decoration: none;
-    outline: none;
-    display: block;
-    float: left;
-    background: #2a1f2f;
-    position: relative;
-    color: #ccc;
-}
-#CrumbsContent a:after {
-    background: #2a1f2f;
-    color: #eee;
-    content: '';
-    position: absolute;
-    transform: scale(0.707) rotate(45deg);
-    z-index: 1;
-    box-shadow: 
-        2px -2px 0 2px rgba(0, 0, 0, 0.4), 
-        3px -3px 0 2px rgba(255, 255, 255, 0.1);
-    border-radius: 0 5px 0 50px;
-}
-#CrumbsContent a:hover, #CrumbsContent a:hover:after {
-    background: #3a2f3f;
-    color: #eee;
-}
-#CrumbsContent a.chosen, #CrumbsContent a.chosen:after {
-    background: #4a3f4f;
-    color: #eee;
-}
-
-#DirectoryContainer {
-    background: #100514; 
-    display: none;
-}
-#DirectoryContent {
-    padding: 0px 10px;
-}
-#DirectoryContent H3 A {
-    color: #eee;
-}
-#DirectoryContent H3 A:hover {
-    border-bottom: 1px solid #ffcc00;
-    color: #ffcc00;
-    filter: brightness(100%);
-}
-#DirectoryContent UL A {
-    color: #b58fe5;
-    filter: brightness(75%);
-}
-#DirectoryContent UL A:hover {
-    border-bottom: 1px solid #b58fe5;
-    color: #b58fe5;
-    filter: brightness(100%);
-}
-
 #FooterContainer {
-    background: #000000;
-    color: #ddd;
-    border-top: 1px solid #2a1f2f;
+    background: #cecee1;
+    color: #441a77;
 }
 #FooterContent {
     min-height: 90px;
@@ -342,58 +192,50 @@ UL.Menu LI A.chosen {
 }
 #FooterContent UL#address {
     font-size: 16px;
-    width: 300x;
+    width: 260x;
 }
 #FooterContent #address A {
-    color: #ddd;
+    color: #441a77;
 }
 #FooterContent #address A:hover {
-    color: #ffcc00;
-    border-bottom: 1px solid #ffcc00;
+    color: #63449b;
 }
 
 #FooterContent LI {
     list-style: none;
 }
 #FooterContent UL#info {
-    width: 300px;
+    width: 260px;
 }
 #FooterContent #info LI {
     padding: 0px;
-    width: 25%;
+    width: 100%;
     text-align: center;
     float: left;
-}
-#FooterContent #info LI A {
-    text-decoration: none;
-    font-size: 24px;
-    font-weight: bold;
-    color: #b58fe5;
-    filter: brightness(75%);
-}
-#FooterContent #info LI A:hover {
-    border-bottom: 2px solid #b58fe5;
-    color: #b58fe5;
-    filter: brightness(100%);
+    font-size: 22px;    
 }
 
 #FooterContent UL#social {
-    width: 300px;
+    width: 260px;
 }
 #FooterContent #social LI {
     text-align: center;
     float: left;
-    width: 14.25%;
+    width: 19.25%;
     padding: 0px;
+    font-size: 22px;
+    font-weight: bold;    
 }
 #FooterContent #social IMG {
+    height: 36px;
     width: 36px;
+    border-radius: 3px;
     border: 2px solid transparent;
-    border-radius: 20px;
-    filter: brightness(75%);
+    border-radius: 0px;
+    filter: brightness(90%);
 }
 #FooterContent #social IMG:hover {
-    border-color: #b58fe5;
+    border-color: #63449b;
     filter: brightness(100%);
 }
 #FooterContent #social A:hover {
