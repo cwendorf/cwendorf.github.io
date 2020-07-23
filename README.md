@@ -6,7 +6,7 @@
 
 ### Faculty Profile
 
-I am a Professor of Psychology at the University of Wisconsin - Stevens Point (UWSP). A central Wisconsin native, I came to UWSP in 2001. I have been Department Chair since 2010.
+I am a Professor of Psychology at the University of Wisconsin - Stevens Point (UWSP). My focus is in social and cultural psychology, along with statistics and research methods.
 
 ### This Website
 
