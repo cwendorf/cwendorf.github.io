@@ -48,36 +48,20 @@ UL {
     padding: 0px;
 }
 
-.row {
-    display: -ms-flexbox;
-    display: flex;
-    -ms-flex-wrap: wrap;
-    flex-wrap: wrap;
-    margin-bottom: 20px;
-}
-.col-4 {
-    -ms-flex: 0 0 25%;
-    flex: 0 0 25%;
-    max-width: 25%;
-}
-
-
 /* Title Section Styles */
 
 #TitleContainer {
-    background: #cecee1;
-}
-#TitleContent {
+    background: #441a77;
 }
 #Person {
     display: block;
     font-family: 'Anton',Arial;
 }
 #TitleContent A {
-    color: #441a77;
+    color: #ddd;
 }
 #TitleContent A:hover {
-    color: #63449b;
+    color: #eee;
 }
 
 
@@ -90,8 +74,6 @@ UL {
 #AreaContent LI {
     text-align: center;
     text-transform: uppercase;
-}
-#AreaContent A {
 }
 #AreaContent A:hover {
     background: rgba(160,160,230,.1);
@@ -180,13 +162,13 @@ UL.references A:hover.download {
 /* Footer Section Styles */
 
 #FooterContainer {
-    background: #cecee1;
-    color: #441a77;
-    font-weight: bold;    
+    background: #100514;
+    color: #ddd;
+    border-top: 1px solid #2a1f2f;    
 }
 #FooterContent {
     min-height: 90px;
-    padding: 15px 10px;
+    padding: 20px 10px;
 }
 #FooterContent IMG#map {
     height: 90px;
@@ -196,10 +178,10 @@ UL.references A:hover.download {
     width: 260x;
 }
 #FooterContent #address A {
-    color: #441a77;
+    color: #ddd;
 }
 #FooterContent #address A:hover {
-    color: #63449b;
+    color: #b58fe5;
 }
 
 #FooterContent LI {
@@ -213,7 +195,9 @@ UL.references A:hover.download {
     width: 100%;
     text-align: center;
     float: left;
-    font-size: 22px;    
+    font-size: 22px; 
+    color:#bbb;  
+    font-weight: bold; 
 }
 
 #FooterContent UL#social {
@@ -226,18 +210,15 @@ UL.references A:hover.download {
     padding: 0px;
     font-size: 22px;
 }
-#FooterContent #social IMG {
-    height: 36px;
-    width: 36px;
-    border-radius: 3px;
-    border: 2px solid transparent;
-    border-radius: 0px;
-    filter: brightness(90%);
+
+#FooterContent #social i {
+    color: #bbb;
+    height: 1em;
+    width: 1em;
+    border-radius: 8px;
 }
-#FooterContent #social IMG:hover {
-    border-color: #63449b;
-    filter: brightness(100%);
+#FooterContent #social i:hover {
+    color: #ddd;
+    background: #63449b;
 }
-#FooterContent #social A:hover {
-    border: none;
-}
+
