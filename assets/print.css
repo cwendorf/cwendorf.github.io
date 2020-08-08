@@ -28,6 +28,11 @@ DIV.hidden {display: block; }
 
 #MainContent {margin-left: 0px; }
 #MainContent .icon IMG {width: 160px; height: 120px;}
+
+#MainContent H1 {padding: 0px 10px 0px 10px; margin: 0px 0px -10px 0px;}
+#MainContent H2 {padding: 25px 10px 5px 10px; margin: 30px 0px 15px 0px;}
+
+#MainContent H1 {font-size: 20px;}
 #MainContent H2 {font-size: 18px;}
 #MainContent h3 {font-size: 14px;}
 #MainContent h4 {font-size: 13px; padding: 0px 20px;}
