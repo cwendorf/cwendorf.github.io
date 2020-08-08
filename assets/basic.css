@@ -89,7 +89,6 @@ UL {
     width: 100%;
     float: left;
 }
-
 #MainContent {
     padding: 20px 0px;
     margin: auto;
@@ -103,16 +102,12 @@ UL {
     font-weight: bold;
     text-transform: uppercase;
     color: #441a77;
-    padding: 10px 10px 0px 10px;
-    margin: 0px 0px 0px 0px;
 }
 #MainContent H2 {
     font-size: 20px; 
     font-weight: bold;
-    padding: 25px 10px 5px 10px;
     clear: both;
-    margin: 25px 0px 15px 0px;
-    border-top: 1px solid #ccc;
+    box-shadow: 0px -10px 1px -10px #111;
 }
 #MainContent H3 {
     font-size: 18px;
