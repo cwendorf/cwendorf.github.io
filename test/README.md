@@ -4,10 +4,10 @@
 
 I am a Professor of Psychology at the University of Wisconsin - Stevens Point (UWSP). A central Wisconsin native, I came to UWSP in 2001. I served as Department Chair from 2010-2020 and am now the Assistant Dean for the School of Behavioral and Social Sciences.
 
-- **Ph.D.:** Wayne State University
-- **M.A.:** Wayne State University
-- **B.S.:** University of Wisconsin Oshkosh
-- **A.A.S.:** University of Wisconsin - Marathon County
+- **Ph.D.:** [Wayne State University](https://cwendorf.github.io/)
+- **M.A.:** [Wayne State University]
+- **B.S.:** [University of Wisconsin Oshkosh]
+- **A.A.S.:** [University of Wisconsin - Marathon County]
 
 ### My Professional Interests
 
