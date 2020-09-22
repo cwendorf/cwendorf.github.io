@@ -9,6 +9,8 @@ I am a Professor of Psychology at the University of Wisconsin - Stevens Point (U
 - **B.S.:** [University of Wisconsin Oshkosh](https://www.uwosh.edu/psychology)
 - **A.A.S.:** [University of Wisconsin - Marathon County](https://www.uwsp.edu/wausau/Pages/default.aspx)
 
+![UWSP Old Main](./teaching/UWSP.jpg)
+
 ### My Professional Interests
 
 Broadly speaking, I am interested in social and cultural psychology, statistical methods, and the scholarship of teaching and learning. Of course, these interests are not mutually exclusive; in fact, most of my work spans more than one of these categories.
@@ -16,6 +18,8 @@ Broadly speaking, I am interested in social and cultural psychology, statistical
 - **Social and Cultural Psychology:** Justice, fairness, and morality; social and political values; cultural and evolutionary psychology.
 - **Statistics and Research Methods:** Confidence intervals; effect sizes; structural equation modeling; multilevel modeling.
 - **Scholarship of Teaching and Learning:** Social psychology of education; student evaluations of teaching; faculty development.
+
+![Social Psychology](./teaching/SocialPsyc.jpg)
 
 ### Materials on this Site
 
@@ -25,3 +29,5 @@ I believe in clear and open practices in higher education. All of my summary tea
 - [**Research Publications:**](./research/) Journal article publications (with links); regional and international conference presentations.
 - [**Statistics Resources:**](./resources/) Sourcebook of statistical methods; estimation statistics package for R; Excel spreadsheets for basic statistical methods.
 - [**Student Projects:**](./projects/) Independent study descriptions and downloads; listing of all independent study projects.
+
+![Blackboard](./teaching/blackboard.jpg)
