@@ -17,15 +17,11 @@
       .markdown-body a:hover {text-decoration: none; border-bottom: 1px #441a77 solid;}
       .markdown-body ul {list-style-type: none; margin-left: 0px; text-indent: -10px;}
       .custom {background: #441a77; width: 100%; height: 70px; }
-      #header {padding: 10px 0px; height: auto; }
+      #header {padding: 10px 0px; height: auto;}
 
-      #site {float: left; margin: 0px 20px 0px 0px; background: white;}
-      #site:hover {background: #ddd;}
-      #logo {display: block; height: 50px; padding: 0px; margin: 0px; background: none;}
-
-      #nav {display: inline-block; font-weight: bold; font-size: 18px; margin: 12px 0px;}
-      #nav a {text-decoration: none; margin: 10px 0px; padding: 12px 10px; color: #ddd;}
-      #nav a:hover {background: rgba(160,160,230,.1); color: #eee; }
+      #site {display: inline-block; font-weight: bold; font-size: 18px; margin: 12px 0px;}
+      #site a {text-decoration: none; margin: 10px 0px; padding: 12px 10px; color: #ddd;}
+      #site a:hover {background: rgba(160,160,230,.1); color: #eee; }
      
       #repository {float: right; padding: 0px 0px;}
       #repository i {text-decoration: none; margin: 0px 0px; padding: 2px 6px; color: black;}      
@@ -83,7 +79,7 @@
       <div id=site>
       {% if site.title and site.title != page.title %}
         <a href="{{ "/" | absolute_url }}" style="text-decoration: none;">
-          <img id=logo src="{{ "/assets/logo.png" | prepend: site.baseurl }}" alt="{{ site.title }}">
+          Craig A. Wendorf, Ph.D.
         </a> 
       {% endif %}
       </div>
@@ -91,13 +87,6 @@
       <div id=menuButton>
         <i class="fas fa-bars fa-2x" onClick="toggleDropdown()"></i>
       </div>      
-
-      <div id=nav>
-        <a href="{{ "/teaching/" | prepend: site.baseurl }}" alt="Teaching">Teaching</a> 
-        <a href="{{ "/research/" | prepend: site.baseurl }}" alt="Publications">Publications</a>  
-        <a href="{{ "/resources/" | prepend: site.baseurl }}" alt="Resources">Resources</a>
-        <a href="{{ "/projects/" | prepend: site.baseurl }}" alt="Projects">Projects</a>
-      </div>
 
     </div>
     </div>
