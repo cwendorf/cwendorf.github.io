@@ -15,10 +15,10 @@
       .custom {background: #441a77; width: 100%; height: 70px; margin: 0px;}
 
       #header {padding: 10px 0px; height: auto;}
-      #site {display: inline-block; float: left; font-weight: bold; font-size: 32px; margin: 12px 0px;}
+      #site {display: block; float: left; font-weight: bold; font-size: 32px; margin: 12px 0px;}
       #site a {text-decoration: none; margin: 10px 0px; padding: 12px 0px; color: #ddd;}
       #site a:hover {color: #eee; }
-      #menuButton {display: inline-block; float: right; padding: 0px 0px; }
+      #menuButton {display: block; float: right; padding: 0px 0px; }
       #menuButton i {text-decoration: none; margin: 0px 0px; padding: 8px 10px; color: #eee;}      
       #menuButton i:hover {color: #ddd;} 
 
@@ -78,11 +78,7 @@
       </div>       
 
       <div id=site>
-      {% if site.title and site.title != page.title %}
-        <a href="{{ "/" | absolute_url }}" style="text-decoration: none;">
-          Craig A. Wendorf, Ph.D.
-        </a> 
-      {% endif %}
+        <a href="{{ "/" | absolute_url }}">Craig A. Wendorf, Ph.D.</a> 
       </div>
 
     </div>
