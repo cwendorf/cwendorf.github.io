@@ -8,7 +8,7 @@ I work to be very clear about how I approach teaching and about the expectations
 - Wendorf, C. A. (2009). *For all of my courses: Effective text processing strategies.* [https://cwendorf.github.io/teaching/Wendorf-EffectiveTextProcessingStrategies.pdf](https://cwendorf.github.io/teaching/Wendorf-EffectiveTextProcessingStrategies.pdf)
 - Wendorf, C. A. (2009). *For all of my courses: Note sheet rules and examples.* [https://cwendorf.github.io/teaching/Wendorf-NoteSheetExamples.pdf](https://cwendorf.github.io/teaching/Wendorf-NoteSheetExamples.pdf)
 
-![My Teaching Philosophy](ComponentChart.jpg)
+<p align="center" class=icon><kbd><img src="ComponentChart.jpg"></kbd></p>
 
 ### Course Learning Outcomes
 
@@ -19,7 +19,7 @@ Importantly, I have outlined the primary learning outcomes for each of my course
 - Wendorf, C. A. (2017). *Personality Psychology: Course learning outcomes.* [https://cwendorf.github.io/teaching/Wendorf-LearningOutcomesPersonality.pdf](https://cwendorf.github.io/teaching/Wendorf-LearningOutcomesPersonality.pdf)
 - Wendorf, C. A. (2017). *Cultural Psychology: Course learning outcomes.* [https://cwendorf.github.io/teaching/Wendorf-LearningOutcomesCulture.pdf](https://cwendorf.github.io/teaching/Wendorf-LearningOutcomesCulture.pdf)
 
-![Outcomes as a CMAP](CMapExample.jpg)
+<p align="center" class=icon><kbd><img src="CMapExample.jpg"></kbd></p>
 
 ### My Grading System
 
@@ -30,4 +30,4 @@ I have also tried to clearly describe my approach to grading various course asse
 - Wendorf, C. A. (2017). *Research Methods in Psychology: Graded examples.* [https://cwendorf.github.io/teaching/Wendorf-GradingMethodsExamples.pdf](https://cwendorf.github.io/teaching/Wendorf-GradingMethodsExamples.pdf)
 - Wendorf, C. A. (2017). *Statistics for Psychologists: Graded examples.* [https://cwendorf.github.io/teaching/Wendorf-GradingStatisticsExamples.pdf](https://cwendorf.github.io/teaching/Wendorf-GradingStatisticsExamples.pdf)
 
-![Grading Rubric Chart](RubricExample.jpg)
+<p align="center" class=icon><kbd><img src="RubricExample.jpg"></kbd></p>

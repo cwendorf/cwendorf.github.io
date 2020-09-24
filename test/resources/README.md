@@ -6,7 +6,7 @@ The materials in this online textbook are intended to facilitate the connection 
 
 - Wendorf, C. A. (2019). *Statistics for social science: A sourcebook of basic statistical methods.* [https://cwendorf.github.io/Sourcebook](https://cwendorf.github.io/Sourcebook)
 
-![An Online Textbook](AnnotatedOutput.jpg)
+<p align="center" class=icon><kbd><img src="AnnotatedOutput.jpg"></kbd></p>
 
 ### EASI: Estimation Approach to Statistical Inference
 
@@ -14,7 +14,7 @@ EASI is a package for R that implements features of estimation statistics. Prima
 
 - Wendorf, C. A. (2019). *EASI: Estimation Approach to Statistical Inference* [R Package]. [https://cwendorf.github.io/EASI](https://cwendorf.github.io/EASI)
 
-![Estimation Approach to Statistical Inference](EASI.jpg)
+<p align="center" class=icon><kbd><img src="EASI.jpg"></kbd></p>
 
 ### BASE: Basic Analytical Statistics with Excel
 
@@ -24,4 +24,4 @@ BASE is a collection of Excel spreadsheets that provide real-time calculations a
 - Wendorf, C. A. (2014). *ARISE: Arelational and Relational Intervals with Excel* [Excel Spreadsheets]. [https://cwendorf.github.io/BASE/ARISE](https://cwendorf.github.io/BASE/ARISE)
 - Wendorf, C. A. (2016). *EASE: Estimation Approach to Statistics with Excel* [Excel Spreadsheets]. [https://cwendorf.github.io/BASE/EASE](https://cwendorf.github.io/BASE/EASE)
 
-![Estimation Approach to Statistics with Excel](EASE.jpg)
+<p align="center" class=icon><kbd><img src="EASE.jpg"></kbd></p>
