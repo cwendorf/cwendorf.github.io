@@ -9,7 +9,7 @@ I am a Professor of Psychology at the University of Wisconsin - Stevens Point (U
 - **B.S.:** [University of Wisconsin Oshkosh](https://www.uwosh.edu/psychology)
 - **A.A.S.:** [University of Wisconsin - Marathon County](https://www.uwsp.edu/wausau/Pages/default.aspx)
 
-![UWSP Old Main](./teaching/UWSP.jpg)
+<p align="center"><kbd><img src="teaching/UWSP.jpg"></kbd></p>
 
 ### My Professional Interests
 
