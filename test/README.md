@@ -19,7 +19,7 @@ Broadly speaking, I am interested in social and cultural psychology, statistical
 - **Statistics and Research Methods:** Confidence intervals; effect sizes; structural equation modeling; multilevel modeling.
 - **Scholarship of Teaching and Learning:** Social psychology of education; student evaluations of teaching; faculty development.
 
-![Social Psychology](./teaching/SocialPsyc.jpg)
+<p align="center" class=icon><kbd><img src="teaching/SocialPsyc.jpg"></kbd></p>
 
 ### Materials on this Site
 
@@ -30,4 +30,4 @@ I believe in clear and open practices in higher education. All of my summary tea
 - [**Statistics Resources:**](./resources/) Sourcebook of statistical methods; estimation statistics package for R; Excel spreadsheets for basic statistical methods.
 - [**Student Projects:**](./projects/) Independent study descriptions and downloads; listing of all independent study projects.
 
-![Blackboard](./teaching/blackboard.jpg)
+<p align="center" class=icon><kbd><img src="teaching/blackboard.jpg"></kbd></p>
