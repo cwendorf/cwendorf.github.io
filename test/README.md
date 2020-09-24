@@ -4,14 +4,12 @@
 
 I am a Professor of Psychology at the University of Wisconsin - Stevens Point (UWSP). A central Wisconsin native, I came to UWSP in 2001. I served as Department Chair from 2010-2020 and am now the Assistant Dean for the School of Behavioral and Social Sciences.
 
-<p align="center"><kbd><img src="teaching/UWSP.jpg"></kbd></p>
-
 - **Ph.D.:** [Wayne State University](http://www.clas.wayne.edu/psychology/)
 - **M.A.:** [Wayne State University](http://www.clas.wayne.edu/psychology/)
 - **B.S.:** [University of Wisconsin Oshkosh](https://www.uwosh.edu/psychology)
 - **A.A.S.:** [University of Wisconsin - Marathon County](https://www.uwsp.edu/wausau/Pages/default.aspx)
 
-
+<p align="center" class=icon><kbd><img src="teaching/UWSP.jpg"></kbd></p>
 
 ### My Professional Interests
 
