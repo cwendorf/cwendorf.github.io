@@ -29,12 +29,14 @@
       #dropdown a:hover {color: #63449b;}
 
       .markdown-body h2 {color: #441a77; margin: 0px;}
-      .markdown-body h3 {clear: both; position: relative;}
+      .markdown-body h3 {position: relative;}
+      .markdown-body:after {content: ''; float: right; display: block; width: 250px; height: 175px; margin: 0px 15px 45px 45px;}
+
       .markdown-body hr {background-color: black;}
       .markdown-body a {color: #441a77; border-bottom: 1px #441a77 dashed;}
       .markdown-body a:hover {text-decoration: none; border-bottom: 1px #441a77 solid;}
       .markdown-body ul {list-style-type: none; margin-left: 0px; text-indent: -10px;}
-      .markdown-body img {position: relative; }
+      .markdown-body img {position: absolute; top: 20; right: 0;}
 
       #footer {padding: 10px 0px; height: auto; }
       #footer a {color: #ddd; text-decoration: none; font-weight: bold;}
