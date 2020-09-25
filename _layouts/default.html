@@ -12,7 +12,7 @@
 
     <style>
 
-      .custom {background: #441a77; width: 100%; height: 74px; margin: 0px;}
+      .custom {background: #441a77; width: 100%; height: 75px; margin: 0px;}
 
       #header {padding: 10px 0px; height: auto;}
       #site {display: block; float: left; padding: 0px 0px; line-height: 55px;}
@@ -22,9 +22,7 @@
       #menuButton i {text-decoration: none; margin: 0px 0px; padding: 10px 12px; color: #eee;}      
       #menuButton i:hover {color: #ddd;} 
 
-      #dropdown {display: none; position: absolute; top: 75px; right: 2px; z-index: 99; background: #f6f6f6; padding: 0px 0px; margin: 0px; width: 200px; }
-      #dropdown ul {list-style: none; padding: 10px; margin: 0px; width: 100%;}  
-      #dropdown li {width: 100%; text-align: center;}
+
       #dropdown a {display: block; text-decoration: none; margin: 0px 0px; padding: 12px 10px; color: #441a77; font-weight: bold; font-size: 18px;}
       #dropdown a:hover {color: #63449b;}
 
@@ -45,11 +43,12 @@
       #topButton i:hover {color: #ddd;}
 
       @media (max-width: 700px) {
-        div#nav {display: none;}
         #menuButton {display: block;}
+        #dropdown {display: none; position: absolute; top: 76px; right: 2px; z-index: 99; background: #f6f6f6; padding: 0px 0px; margin: 0px; width: 200px; }
+        #dropdown ul {list-style: none; padding: 10px; margin: 0px; width: 100%;}  
+        #dropdown li {width: 100%; text-align: center;}        
       }
       @media (min-width: 701px) {
-        div#nav {display: block;}
         #menuButton {display: none;}
       }
       
