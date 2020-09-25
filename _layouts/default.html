@@ -22,7 +22,7 @@
       #menuButton i {text-decoration: none; margin: 0px 0px; padding: 10px 12px; color: #eee;}      
       #menuButton i:hover {color: #ddd;} 
 
-
+      #dropdown ul {list-style: none; padding: 10px; margin: 0px; width: 100%; background: #ddd;} 
       #dropdown a {display: block; text-decoration: none; margin: 0px 0px; padding: 12px 10px; color: #441a77; font-weight: bold; font-size: 18px;}
       #dropdown a:hover {color: #63449b;}
 
@@ -45,11 +45,13 @@
       @media (max-width: 700px) {
         #menuButton {display: block;}
         #dropdown {display: none; position: absolute; top: 76px; right: 2px; z-index: 99; background: #f6f6f6; padding: 0px 0px; margin: 0px; width: 200px; }
-        #dropdown ul {list-style: none; padding: 10px; margin: 0px; width: 100%;}  
         #dropdown li {width: 100%; text-align: center;}        
       }
       @media (min-width: 701px) {
         #menuButton {display: none;}
+        #dropdown {background: #f6f6f6; padding: 0px 0px; margin: 0px; width: 100%; }
+        #dropdown li {width: 200px; text-align: center;}        
+
       }
       
     </style>
