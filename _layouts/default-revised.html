@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+
+    <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1">
+    <title>Craig A. Wendorf, Ph.D.</title>
+
+    {% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <script src="https://kit.fontawesome.com/277c075f99.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
+    <style>
+
+      .custom {background: #441a77; width: 100%; height: 75px; margin: 0px;}
+
+      #header {padding: 10px 0px; height: auto;}
+      #site {display: block; float: left; padding: 0px 0px; line-height: 55px;}
+      #site a {text-decoration: none; font-weight: bold; font-size: 28px; padding: 5px 0px; color: #ddd;}
+      #site a:hover {color: #eee;}
+      #menuButton {display: block; float: right; padding: 0px 0px; }
+      #menuButton i {text-decoration: none; margin: 0px 0px; padding: 10px 12px; color: #eee;}      
+      #menuButton i:hover {color: #ddd;} 
+
+      #dropdown {display: none; position: absolute; top: 76px; right: 2px; z-index: 99; background: #f6f6f6; padding: 0px 0px; margin: 0px; width: 200px; }
+      #dropdown li {width: 100%; text-align: center;}
+      #dropdown ul {list-style: none; padding: 10px; margin: 0px; width: 100%; clear: both;} 
+      #dropdown a {display: block; text-decoration: none; margin: 0px 0px; padding: 12px 10px; color: #441a77; font-weight: bold; font-size: 18px;}
+      #dropdown a:hover {color: #63449b;}
+
+      .markdown-body {padding-right: 275px;}
+      .markdown-body h2 {color: #441a77; margin: 0px;}
+      .markdown-body h3 {}
+      .markdown-body hr {background-color: black;}
+      .markdown-body ul a {color: #441a77; border-bottom: 1px #441a77 dashed;}
+      .markdown-body ul a:hover {text-decoration: none; border-bottom: 1px #441a77 solid;}
+      .markdown-body ul {list-style: none; margin-left: 0px; text-indent: -10px;}
+
+      #footer {padding: 10px 0px; height: auto; }
+      #footer a {color: #ddd; text-decoration: none; font-weight: bold;}
+      #footer a:hover {color: #eee;}
+
+      #topButton {float: right;}
+      #topButton i {padding: 10px; color: #eee;}
+      #topButton i:hover {color: #ddd;}
+      
+    </style>
+
+    <script language="javascript">
+      function toggleDropdown() {
+        var menu = document.getElementById('dropdown');
+        if (menu.style.display == "block") {
+          menu.style.display = "none";
+      } else {
+        menu.style.display = "block";
+      }
+      }
+    </script>
+
+  </head>
+  
+  <body>
+
+    <div class="custom">
+    <div id=header class="container-lg px-3 markdown-body">
+
+      <div id=site>
+        <a href="{{ "/" | absolute_url }}">Craig A. Wendorf, Ph.D.</a> 
+      </div>
+
+      <div id=menuButton>
+        <i class="fas fa-bars fa-2x" onClick="toggleDropdown()"></i>
+      </div>       
+
+    </div>
+    </div>
+
+    <div id=dropdown class="container-lg">
+
+      <ul>
+        <li class=""><a href="{{ "/" | absolute_url }}" alt="Profile" class="">Profile</a></li> 
+        <li class=""><a href="{{ "/teaching/" | prepend: site.baseurl }}" alt="Teaching" class="">Teaching</a></li>  
+        <li class=""><a href="{{ "/research/" | prepend: site.baseurl }}" alt="Publications" class="">Publications</a></li>  
+        <li class=""><a href="{{ "/resources/" | prepend: site.baseurl }}" alt="Resources" class="">Resources</a></li>
+        <li class=""><a href="{{ "/projects/" | prepend: site.baseurl }}" alt="Projects" class="">Projects</a></li>
+      </ul>
+
+    </div>   
+
+    <div class="container-lg px-3 my-5 markdown-body" >
+           
+      {{ content }}
+   
+    </div>
+    
+    <div class="custom">
+    <div id=footer class="container-lg px-3 markdown-body">
+  
+      <a id=topButton href="#top"><i class="fas fa-arrow-circle-up fa-2x"></i></a>
+  
+      <a href="mailto:cwendorf@uwsp.edu"><i class="fas fa-envelope-square" style="margin: 0px 12px 0px 2px;"></i>cwendorf@uwsp.edu</a>
+      <br />
+      <a href="https://cwendorf.github.io"><i class="fas fa-home" style="margin-right: 10px;"></i>https://cwendorf.github.io</a>  
+  
+    </div>
+    </div>
+   
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+    {% if site.google_analytics %}
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', '{{ site.google_analytics }}', 'auto');
+      ga('send', 'pageview');
+    </script>
+    {% endif %}
+
+  </body>
+
+</html>
