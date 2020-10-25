@@ -10,7 +10,7 @@ The materials in this online textbook are intended to facilitate the connection 
 
 ### EASI: Estimation Approach to Statistical Inference
 
-EASI is a package for R that implements features of estimation statistics. Primary functions calculate, test, and plot confidence intervals for means, mean differences, and mean contrasts for between- and within-subjects single-factor, factorial, and mixed designs. They can take either raw data or summary statistics as input. Additional functions calculate the standardized effect sizes and statistical significance tests associated with comparions among the groups and variables. Numerous tutorial examples (from my online textbook above) and examples from other textbooks are available. This R project extends the analysis options beyond what is available in the Excel spreadsheets listed below.
+EASI is a package for R that implements features of estimation statistics. Primary functions calculate, test, and plot confidence intervals for between- and within-subjects single-factor, factorial, and mixed designs. They can take either raw data or summary statistics as input. Additional functions calculate the standardized effect sizes and statistical significance tests associated with comparions among the groups and variables. Numerous tutorial examples (from my online textbook above) and examples from other textbooks are available. This R project extends the analysis options beyond what is available in the Excel spreadsheets listed below.
 
 - Wendorf, C. A. (2019). *EASI: Estimation Approach to Statistical Inference* [R Package]. [https://cwendorf.github.io/EASI](https://cwendorf.github.io/EASI)
 
