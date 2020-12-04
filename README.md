@@ -19,7 +19,7 @@ Broadly speaking, I am interested in social and cultural psychology, statistical
 - **Statistics and Research Methods:** Confidence intervals; effect sizes; structural equation modeling; multilevel modeling.
 - **Scholarship of Teaching and Learning:** Social psychology of education; student evaluations of teaching; faculty development.
 
-<p align="center" class=icon><kbd><img src="research/PsychologyCloud.jpg"></kbd></p>
+<p align="center" class=icon><kbd><img src="research/FACETS.jpg"></kbd></p>
 
 ### Materials on this Site
 
