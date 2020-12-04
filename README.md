@@ -1,3 +1,5 @@
+# Craig A. Wendorf, Ph.D.
+
 ## MY PROFILE
 
 ### My Professional Background
