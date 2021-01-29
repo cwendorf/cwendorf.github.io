@@ -1,0 +1,52 @@
+
+/* For Printing */
+
+/* Global Changes */
+
+body {font-size: 12px;}
+.Content {min-width: 300px;}
+DIV.hidden {display: block; }
+.hide {display: none;}
+
+/* Header Section Changes */
+
+.logo {width: 185px; padding: 4px 4px;}
+#HeaderContainer {height: 60px;}
+#BriefMenu {display: none;}
+#ToolContainer, #UnivContainer, #FindContainer {display: none;}
+
+/* Title Section Changes */
+
+#TitleContent {padding: 10px 8px; border-bottom: 1px solid #333;}
+#Person {font-size: 24px; padding: 0px; }
+#Title {font-size: 16px; padding: 0px;}
+#MenuButton {display: none;}
+
+#AreaContainer {display: none; }
+
+/* Main Section Changes */
+
+#MainContent {margin-left: 0px; }
+#MainContent .icon IMG {width: 160px; height: 120px;}
+
+#MainContent H1 {padding: 0px 10px 0px 10px; margin: 0px 0px -10px 0px;}
+#MainContent H2 {padding: 25px 10px 5px 10px; margin: 30px 0px 15px 0px;}
+
+#MainContent H1 {font-size: 20px;}
+#MainContent H2 {font-size: 18px;}
+#MainContent h3 {font-size: 14px;}
+#MainContent h4 {font-size: 13px; padding: 0px 20px;}
+
+#MainContent .post:before {content: ''; float: right; display: block; width: 200px; height: 150px; margin: 0px 15px 15px 15px;}
+#MainContent .post {position: relative;}
+
+#MainContent .icon {position: absolute; top: 0; right: 0;  }
+#MainContent .icon IMG {height: 150px; width: 200px; margin: 0px 15px 15px 15px;}
+
+#SidebarContainer {display: none;}
+
+/* Footer Section Changes */
+
+#CrumbsContainer {display: none;}
+#DirectoryContainer {display: none;}
+#FooterContainer {display: none;}
