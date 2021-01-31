@@ -23,7 +23,7 @@ Broadly speaking, I am interested in social and cultural psychology, statistical
 
 ### Materials on this Site
 
-I believe in clear and open practices in higher education. All of my summary teaching materials, links to all of my research publications and student independent projects, and portals to my open source statistics resources are all available on this website.
+I believe in clear and open practices in higher education. My summary teaching materials, links to my research publications and student independent projects, and portals to my open source statistics resources are all available on this website.
 
 - [**Teaching Materials:**](./teaching/) My teaching philosophy; learning outcomes for all of my courses; my grading system with examples.
 - [**Research Publications:**](./research/) Journal article publications (with links); regional and international conference presentations.
