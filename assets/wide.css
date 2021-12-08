@@ -10,7 +10,7 @@
 #TitleContainer {height: 70px;}
 #Person {font-size: 32px; padding: 10px 10px; }
 
-#MenuButton {vertical-align: middle; display: block; float: right; height: 28px; width: 30px; padding: 15px 7px; margin: 0px 0px 0px 10px;}
+#MenuButton {display: block; float: right; height: 28px; width: 30px; padding: 15px 7px; margin: 0px 0px 0px 10px;}
 #MenuButton:hover {background: rgba(160,160,230,.2);}
 #MenuButton {display: none;}
 
@@ -26,7 +26,11 @@
 #MainContent H2 {padding: 25px 10px 5px 10px; margin: 25px 0px 15px 0px;}
 
 #MainContent .post:before {content: ''; float: right; display: block; width: 250px; height: 175px; margin: 0px 15px 45px 45px;}
-#MainContent .post {position: relative; }
+#MainContent .post {position: relative;}
+
+#MainContent .post p {max-width: 750px;}
+#MainContent .post ul {max-width: 750px;}
+#MainContent .hide {max-width: 750px;}
 
 #MainContent .icon {position: absolute; top: 0; right: 0; }
 #MainContent .icon IMG {width: 250px; height: 175px; margin: 0px 15px 25px 25px;}
