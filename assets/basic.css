@@ -96,6 +96,8 @@ UL {
 #MainContent .icon IMG {
     padding: 2px;
     background: #e8e8e8;
+    border: 1px solid #63449b;
+    border-radius: 4px;    
 }
 #MainContent H1 {
     font-size: 24px;
