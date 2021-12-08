@@ -26,9 +26,9 @@
 #MainContent H2 {padding: 25px 10px 5px 10px; margin: 25px 0px 15px 0px;}
 
 #MainContent .post:before {content: ''; float: right; display: block; width: 250px; height: 175px; margin: 0px 15px 45px 45px;}
-#MainContent .post {position: relative; margin-right: 200px;}
+#MainContent .post {position: relative; padding-right: 200px; }
 
-#MainContent .icon {position: absolute; top: 0; right: 0;  }
+#MainContent .icon {position: absolute; top: 0; right: 0; }
 #MainContent .icon IMG {width: 250px; height: 175px; margin: 0px 15px 25px 25px;}
 
 .Media {margin: 0px 4px; }
