@@ -78,10 +78,10 @@ UL {
     text-transform: uppercase;
 }
 #AreaContent A:hover {
-    background: rgba(160,160,230,.1);
+    background: rgba(160,160,230,.15);
 }
 #AreaContent A.chosen {
-    background: rgba(160,160,230,.1);
+    background: rgba(160,160,230,0.3);
 }
 
 
@@ -98,7 +98,7 @@ UL {
 #MainContent .icon IMG {
     padding: 2px;
     background: #e8e8e8;
-    border: 1px solid #63449b;
+    border: 1px solid rgba(160,160,230,0.4);
     border-radius: 4px;    
 }
 #MainContent H1 {
@@ -222,4 +222,3 @@ UL.references A:hover.download {
     color: #ddd;
     background: #63449b;
 }
-

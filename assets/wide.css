@@ -17,7 +17,7 @@
 /* Nav Section Changes */
 
 #AreaContainer {border-bottom: 1px solid #ccc;}
-#AreaContent LI {float: left; padding: 0px 10px; }
+#AreaContent LI {float: left; padding: 0px 10px;}
 #AreaContent A {width: 100%; display: block; font-size: 22px; padding: 10px 10px;}
 
 /* Main Section Changes */
@@ -25,7 +25,7 @@
 #MainContent H1 {padding: 10px 10px 0px 10px; margin: 0px 0px 0px 0px;}
 #MainContent H2 {padding: 25px 10px 5px 10px; margin: 25px 0px 15px 0px;}
 
-#MainContent .post:before {content: ''; float: right; display: block; width: 250px; height: 175px; margin: 0px 15px 45px 45px;}
+#MainContent .post::before {content: ''; float: right; display: block; width: 250px; min-height: 175px; margin: 0px 15px 45px 45px;}
 #MainContent .post {position: relative;}
 
 #MainContent .post p {max-width: 750px;}
