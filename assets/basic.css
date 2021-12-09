@@ -5,6 +5,7 @@
 
 @import url("https://fonts.googleapis.com/css?family=Open+Sans") screen, print, projection;
 @import url("https://fonts.googleapis.com/css?family=Anton") screen, print, projection;
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed") screen, print, projection;
 
 body {
     margin: auto;
@@ -22,7 +23,7 @@ IMG {
 }
 A {
     text-decoration: none;
-    color: #441a77;
+    color: #512698;
 }
 A:focus {
     outline: none;
@@ -51,11 +52,11 @@ UL {
 /* Title Section Styles */
 
 #TitleContainer {
-    background: #441a77;
+    background: #512698;
 }
 #Person {
     display: block;
-    font-family: 'Anton',Arial;
+    font-family: 'Anton';
 }
 #TitleContent A {
     color: #ddd;
@@ -68,6 +69,7 @@ UL {
 /* Area Nav Section Styles */
 
 #AreaContainer {
+    font-family: 'Roboto Condensed';
     background: #f6f6f6;
     font-weight: bold;
 }
@@ -100,16 +102,18 @@ UL {
     border-radius: 4px;    
 }
 #MainContent H1 {
-    font-size: 24px;
-    font-weight: bold;
+    font-family: 'Roboto Condensed',Arial;
+    font-size: 28px;
+    font-weight: 900;
     text-transform: uppercase;
-    color: #441a77;
+    color: #512698;
 }
 #MainContent H2 {
-    font-size: 20px; 
+    font-family: 'Roboto Condensed',Arial;
+    font-size: 22px; 
     font-weight: bold;
     clear: both;
-    box-shadow: 0px -10px 1px -10px #441a77;
+    box-shadow: 0px -10px 1px -10px #512698;
 }
 #MainContent H3 {
     font-size: 18px;
@@ -124,7 +128,7 @@ DIV.hide {
     margin: 0px 10px 10px 0px;
 }
 DIV.hide A {
-    border-bottom: 1px #443377 dashed;
+    border-bottom: 1px #512698 dashed;
 }
 DIV.hide A:hover {
     border-bottom: 1px #63449b solid;	
@@ -150,7 +154,7 @@ UL.references A:hover {
     color: #63449b;
 }
 UL.references A.download {
-    border-bottom: 1px #441a77 dashed;
+    border-bottom: 1px #512698 dashed;
 }
 UL.references A:hover.download {
     border-bottom: 1px #63449b solid;
