@@ -6,7 +6,7 @@ The materials in this online textbook are intended to facilitate the connection 
 
 - Wendorf, C. A. (2019). *Statistics for social science: A sourcebook of basic statistical methods.* [https://cwendorf.github.io/Sourcebook](https://cwendorf.github.io/Sourcebook)
 
-<p align="center" class=icon><kbd><img src="AnnotatedOutput.jpg"></kbd></p>
+<p align="center" class=icon><kbd><img src="Sourcebook.jpg"></kbd></p>
 
 ### Estimation Statistics with R
 

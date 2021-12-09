@@ -30,4 +30,4 @@ I have also tried to clearly describe my approach to grading various course asse
 - Wendorf, C. A. (2017). *Graded examples: Research Methods in Psychology.* [https://cwendorf.github.io/teaching/Wendorf-GradingMethodsExamples.pdf](https://cwendorf.github.io/teaching/Wendorf-GradingMethodsExamples.pdf)
 - Wendorf, C. A. (2017). *Graded examples: Statistics for Psychologists.* [https://cwendorf.github.io/teaching/Wendorf-GradingStatisticsExamples.pdf](https://cwendorf.github.io/teaching/Wendorf-GradingStatisticsExamples.pdf)
 
-<p align="center" class=icon><kbd><img src="RubricExample.jpg"></kbd></p>
+<p align="center" class=icon><kbd><img src="Classroom.jpg"></kbd></p>

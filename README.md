@@ -30,4 +30,4 @@ I believe in clear and open practices in higher education. My summary teaching m
 - [**Statistics Resources:**](./resources/) Sourcebook of statistical methods; estimation statistics package for R; Excel spreadsheets for basic statistical methods
 - [**Student Projects:**](./projects/) Independent study descriptions and downloads; listing of all independent study projects
 
-<p align="center" class=icon><kbd><img src="resources/AnnotatedOutput.jpg"></kbd></p>
+<p align="center" class=icon><kbd><img src="resources/Sourcebook.jpg"></kbd></p>
