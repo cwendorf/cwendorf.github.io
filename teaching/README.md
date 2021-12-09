@@ -19,7 +19,7 @@ Importantly, I have outlined the primary learning outcomes for each of my course
 - Wendorf, C. A. (2017). *Course learning outcomes: Research Methods in Psychology.* [https://cwendorf.github.io/teaching/Wendorf-LearningOutcomesMethods.pdf](https://cwendorf.github.io/teaching/Wendorf-LearningOutcomesMethods.pdf)
 - Wendorf, C. A. (2017). *Course learning outcomes: Statistics for Psychologists.* [https://cwendorf.github.io/teaching/Wendorf-LearningOutcomesStatistics.pdf](https://cwendorf.github.io/teaching/Wendorf-LearningOutcomesStatistics.pdf)
 
-<p align="center" class=icon><kbd><img src="CMapExample.jpg"></kbd></p>
+<p align="center" class=icon><kbd><img src="LearningOutcomes.jpg"></kbd></p>
 
 ### My Grading System
 
@@ -30,4 +30,4 @@ I have also tried to clearly describe my approach to grading various course asse
 - Wendorf, C. A. (2017). *Graded examples: Research Methods in Psychology.* [https://cwendorf.github.io/teaching/Wendorf-GradingMethodsExamples.pdf](https://cwendorf.github.io/teaching/Wendorf-GradingMethodsExamples.pdf)
 - Wendorf, C. A. (2017). *Graded examples: Statistics for Psychologists.* [https://cwendorf.github.io/teaching/Wendorf-GradingStatisticsExamples.pdf](https://cwendorf.github.io/teaching/Wendorf-GradingStatisticsExamples.pdf)
 
-<p align="center" class=icon><kbd><img src="Classroom.jpg"></kbd></p>
+<p align="center" class=icon><kbd><img src="GradingRubric.jpg"></kbd></p>

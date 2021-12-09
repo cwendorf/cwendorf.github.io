@@ -16,7 +16,7 @@ As a social and cultural psychologist, I have a broad interest in people's socia
 - Weisfeld, G. E., & Wendorf, C. A. (2000). The IDS and discrete emotions theory. In L. Sloman and P. Gilbert (Eds.), *Subordination and defeat: An evolutionary approach to mood disorders and their therapy* (pp. 121-146). Lawrence Erlbaum.
 - Wendorf, C. A. (2001). History of American morality research, 1894-1932. *History of Psychology, 4,* 272-288. [https://dx.doi.org/10.1037/1093-4510.4.3.272](https://dx.doi.org/10.1037/1093-4510.4.3.272)
 
-<p align="center" class=icon><kbd><img src="NumberChildren.jpg"></kbd></p>
+<p align="center" class=icon><kbd><img src="JusticeHealth.jpg"></kbd></p>
 
 ### Statistical Methods
 
@@ -36,4 +36,4 @@ I have a broad interest in the scholarship of teaching and learning, especially 
 - Wendorf, C. A., & Alexander, S. (2005). The influence of individual and class-level fairness-related perceptions on student satisfaction. *Contemporary Educational Psychology, 30,* 190-206. [https://doi.org/10.1016/j.cedpsych.2004.07.003](https://doi.org/10.1016/j.cedpsych.2004.07.003)
 - Wendorf, C. A. (2002). GPA and changes in (great) grade expectations. *Teaching of Psychology, 29,* 136-138. [https://doi.org/10.1207%2FS15328023TOP2902_13](https://doi.org/10.1207%2FS15328023TOP2902_13)
 
-<p align="center" class=icon><kbd><img src="FACETS.jpg"></kbd></p>
+<p align="center" class=icon><kbd><img src="GradeExpectations.jpg"></kbd></p>

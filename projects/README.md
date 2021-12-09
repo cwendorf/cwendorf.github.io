@@ -36,4 +36,4 @@ My students tend to do projects that closely align with my research interests. H
 - Van Berkel, C., Hoffman, S., Smith, M., Yoder, N., Peaslee, A., & Wilcher, J. (2007, April). *Development of two scales for understanding choice of a psychology major.* Poster presented at the 8th annual Letters and Science Undergraduate Research Symposium, University of Wisconsin – Stevens Point. (Faculty Co-sponsors: Amy Herstein Gervasio and Craig A. Wendorf)
 - Peaslee, A. M., Teuscher, S. E., & Trost, J. E. (2006, April). *Survey of learning goals in psychology.* Poster presented at the 7th annual Letters and Science Undergraduate Research Symposium, University of Wisconsin – Stevens Point. (Faculty Co-sponsors: Amy Herstein Gervasio and Craig A. Wendorf)
 
-<p align="center" class=icon><kbd><img src="PotterDavid.jpg"></kbd></p>
+<p align="center" class=icon><kbd><img src="ExtraroleBehaviors.jpg"></kbd></p>
