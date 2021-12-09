@@ -33,7 +33,7 @@
 #MainContent .hide {max-width: 750px;}
 
 #MainContent .icon {position: absolute; top: 0; right: 0; }
-#MainContent .icon IMG {width: 250px; height: 175px; margin: 0px 15px 25px 25px;}
+#MainContent .icon IMG {width: 250px; margin: 0px 15px 25px 25px;}
 
 .Media {margin: 0px 4px; }
 .navigate {display: none;}
