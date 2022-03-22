@@ -71,7 +71,7 @@ UL {
 
 #AreaContainer {
     font-family: 'Roboto';
-    background: #f6f6f6;
+    background: rgba(160,160,230,.15);
     font-weight: bold;
 }
 #AreaContent LI {
