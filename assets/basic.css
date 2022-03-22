@@ -6,7 +6,7 @@
 @import url("https://fonts.googleapis.com/css?family=Open+Sans") screen, print, projection;
 @import url("https://fonts.googleapis.com/css?family=Anton") screen, print, projection;
 @import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed") screen, print, projection;
-@import url("https://fonts.googleapis.com/css2?family=Roboto") screen, print, projection;
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap') screen, print, projection;
 
 body {
     margin: auto;
