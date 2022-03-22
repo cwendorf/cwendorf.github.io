@@ -6,6 +6,7 @@
 @import url("https://fonts.googleapis.com/css?family=Open+Sans") screen, print, projection;
 @import url("https://fonts.googleapis.com/css?family=Anton") screen, print, projection;
 @import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed") screen, print, projection;
+@import url("https://fonts.googleapis.com/css2?family=Roboto") screen, print, projection;
 
 body {
     margin: auto;
@@ -69,7 +70,7 @@ UL {
 /* Area Nav Section Styles */
 
 #AreaContainer {
-    font-family: 'Roboto Condensed';
+    font-family: 'Roboto';
     background: #f6f6f6;
     font-weight: bold;
 }
@@ -102,7 +103,7 @@ UL {
     border-radius: 4px;    
 }
 #MainContent H1 {
-    font-family: 'Roboto Condensed',Arial;
+    font-family: 'Roboto',Arial;
     font-size: 28px;
     font-weight: bold;
     text-transform: uppercase;
