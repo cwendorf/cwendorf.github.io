@@ -60,10 +60,10 @@ UL {
     font-family: 'Anton';
 }
 #TitleContent A {
-    color: #eee;
+    color: rgba(255,204,46);
 }
 #TitleContent A:hover {
-    color: #fff;
+    color: rgba(255,224,66,.85);
 }
 
 
@@ -91,6 +91,8 @@ UL {
 #MainContainer {
     width: 100%;
     float: left;
+    /* background: rgb(255,204,46);
+    background: linear-gradient(180deg, rgba(255,204,46,.35) 0px, rgba(255,255,255,1) 100px); */
 }
 #MainContent {
     padding: 20px 0px;
@@ -99,12 +101,12 @@ UL {
 #MainContent .icon IMG {
     padding: 2px;
     background: #e8e8e8;
-    border: 1px solid rgba(160,160,230,0.4);
+    border: 1px solid #512698;
     border-radius: 4px;    
 }
 #MainContent H1 {
     font-family: 'Roboto',Arial;
-    font-size: 26px;
+    font-size: 28px;
     font-weight: bold;
     text-transform: uppercase;
     color: #512698;
@@ -150,7 +152,7 @@ UL.references LI {
     text-indent: -10px;
 }
 UL.references A {
-    color: #555; 
+    color: #512698; 
 }
 UL.references A:hover {
     color: #63449b;
