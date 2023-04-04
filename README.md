@@ -1,4 +1,4 @@
-## Craig A. Wendorf, Ph.D.
+# Craig A. Wendorf, Ph.D.
 
 ### Professional Affiliation
 
