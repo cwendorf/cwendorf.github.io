@@ -79,10 +79,10 @@ UL {
     text-transform: uppercase;
 }
 #AreaContent A:hover {
-    background: rgba(255,255,255,0.15);
+    background: rgba(255,255,255,0.25);
 }
 #AreaContent A.chosen {
-    background: rgba(255,255,255,0.30);
+    background: rgba(255,255,255,0.40);
 }
 
 
