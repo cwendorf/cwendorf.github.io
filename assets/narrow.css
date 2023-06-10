@@ -32,9 +32,5 @@ UL.references LI {margin-left: 30px;}
 
 /* Footer Section Changes */
 
-#FooterContent #logo {margin: 0px auto;}
-#FooterContent IMG#seal {display: block; margin: 0px auto 10px auto;}
-#FooterContent IMG#map {display: none;}
-#FooterContent UL#address {clear: both; margin: 0px auto; padding: 0px; text-align: center;}
-#FooterContent UL#info {display: none;}
-#FooterContent UL#social {clear: both; margin: 5px auto; padding: 10px 0px 30px 0px;}
+#FooterContent UL#address {clear: both; margin: 0px auto 10px auto; padding: 0px 10px; text-align: center;}
+#FooterContent UL#social {clear: both; margin: 0px auto 10px auto; padding: 10px 10px 30px 10px;}

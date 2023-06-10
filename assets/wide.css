@@ -40,9 +40,5 @@
 
 /* Footer Section Changes */
 
-#FooterContent #logo {float: left;}
-#FooterContent IMG#seal {display: none;}
-#FooterContent IMG#map {margin: 0px 10px;}
-#FooterContent UL#address {float: left; margin: 0px; padding: 0px;}
-#FooterContent UL#info {clear: right; float: right; margin: 5px 0px; margin: 5px 15px 5px 25px;}
-#FooterContent UL#social {clear: right; float: right; margin: 5px 0px; margin: 5px 15px 5px 25px;}
+#FooterContent UL#address {float: left; margin: 0px auto; padding: 0px 10px;}
+#FooterContent UL#social {clear: right; float: right; margin: 0px auto; padding: 0px 10px 30px 10px;}
