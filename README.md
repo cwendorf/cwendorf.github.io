@@ -2,7 +2,7 @@
 
 ### Professional Affiliation
 
-- **Professor:** [Department of Psychology](https://www.uwsp.edu/psych/)
+- **Professor:** [Department of Psychology](https://www.uwsp.edu/programs/degree/psychology-university-of-wisconsin-stevens-point/)
 - **Assistant Dean:** [School of Behavioral and Social Sciences](https://www.uwsp.edu/sbss/)
 - **Institution:** [University of Wisconsin - Stevens Point](https://www.uwsp.edu)
 
