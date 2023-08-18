@@ -11,7 +11,7 @@
 
 #TitleContainer {height: 60px;}
 #Person {vertical-align: middle; font-size: 28px; padding: 8px 8px;}
-#MenuButton {display: block; float: right; height: 30px; width: 32px; padding: 15px 10px; margin: 0px 0px 0px 10px;}
+#MenuButton {display: block; float: right; height: 30px; width: 32px; padding: 15px 15px 15px 20px; margin: 0px 0px 0px 10px;}
 #MenuButton:hover {background: rgba(160,160,230,.2);}
 
 /* Nav Section Changes */

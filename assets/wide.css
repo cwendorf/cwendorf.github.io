@@ -9,9 +9,6 @@
 
 #TitleContainer {height: 70px;}
 #Person {font-size: 32px; padding: 10px 10px; }
-
-#MenuButton {display: block; float: right; height: 28px; width: 30px; padding: 15px 7px; margin: 0px 0px 0px 10px;}
-#MenuButton:hover {background: rgba(160,160,230,.2);}
 #MenuButton {display: none;}
 
 /* Nav Section Changes */
