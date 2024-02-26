@@ -107,15 +107,37 @@ UL {
     font-weight: bold;
     text-transform: uppercase;
     color: #512698;
+
+    border: 0px solid #512698;;
+    display: block;
+    text-align: center;
+
 }
+
 #MainContent H2 {
     font-family: 'Roboto Condensed',Arial;
     font-size: 22px; 
     font-weight: bold;
     clear: both;
-    color: #63449b;
-    box-shadow: 0px -10px 2px -10px #63449b;
+    color: #63449b black;
+    /*box-shadow: 0px -10px 2px -10px #63449b;*/
+
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
 }
+
+#MainContent h2:after {
+    position: absolute;
+    top: 60%;
+    overflow: hidden;
+    width: 95%;
+    height: 2px;
+    content: '\a0';
+    background-color: #63449b;
+    margin: 0px 20px;
+}
+
 #MainContent H3 {
     font-size: 18px;
     font-weight: bold;
